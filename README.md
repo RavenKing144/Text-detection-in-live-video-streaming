@@ -19,7 +19,8 @@
       for 10% (and so on) if you find that your OCR result is incorrect.
  .
 
-Important: The EAST text requires that your input image dimensions be multiples of 32, so if you choose to adjust your --width and --height values, ensure they are multiples of 32!
+Important: The EAST text requires that your input image dimensions be multiples of 32, so if you choose to 
+adjust your --width and --height values, ensure they are multiples of 32!
   
 <h3>Command to run the code is</h3>
 python webcam2text.py --east frozen_east_text_detection.pb 
