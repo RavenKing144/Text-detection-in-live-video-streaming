@@ -1,4 +1,4 @@
-# Text-detection-in-llive-video-streaming
+# Text-detection-in-live-video-streaming
 <pre>
 
 <h2>Python Libraries required</h2>
