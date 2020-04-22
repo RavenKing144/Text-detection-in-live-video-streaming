@@ -1,5 +1,16 @@
 # Text-detection-in-llive-video-streaming
 <pre>
+
+<h2>Python Libraries required</h2>
+
+  imutils
+  numpy
+  argparse
+  pytesseract
+  imutils
+  time
+  cv2
+
   <h3>Our script requires command line arguments:</h3>
     --east
      : The EAST scene text detector model file path.
